@@ -1,60 +1,89 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-
+<!-- Banner com animação de texto -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+do+Vale;I'm+18+years+old;I+am+from+Paulista,+PE;Technical+in+Systems+Development;Currently+studying+Analysis+and+Systems+Development+(ADS);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioDValle&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio do Vale github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDValle&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+### 👨‍💻 About Me
+- 💻 Passionate about technology and programming  
+- 📚 Technical degree in **Systems Development**  
+- 🎓 Currently studying **Analysis and Systems Development (ADS)**  
+- 🌎 From **Paulista, Pernambuco - Brazil**  
+- 🚀 Always looking to improve and learn new things  
 
 ---
 
-<div align="center">  
-  <a href="https://www.instagram.com/caioszvalle/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div> 
-
----
-
-### 🧠 Main skills:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&logoColor=0FA54D)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-
----
-
-### ⚙️ Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01)&nbsp;
-
----
-
-### 📚 Other Knowledge:
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=for-the-badge&logo=sqlite)&nbsp;
-
----
-
-### 🚀 Studying at the moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-
----
+### ⚙️ GitHub Analytics
 
 <div align="center">
-  <br>
-  <p><b>Visitors Count</b></p>  
-  <p><img src="https://profile-counter.glitch.me/{CaioDValle}/count.svg" /></p> 
-  <br>
+  <a href="https://github.com/CaioDoVale">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioDoVale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDoVale&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+### 🧠 GitHub Streak & Metrics
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=CaioDoVale&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=en"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaioDoVale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
+
+---
+
+### 📊 Profile Summary Card
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioDoVale&theme=tokyonight"/>
+</div>
+
+---
+
+### 🧩 Languages & Tools
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+### 📫 Contact Me
+
+<div align="center">
+  <a href="mailto:caiodovale@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/caiodovale" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/CaioDoVale" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+---
+
+### 🧭 Visitor Counter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CaioDoVale&color=00bfbf&style=flat-square&label=Profile+Views"/>
+</div>
+
+---
+
+⭐️ From [CaioDoVale](https://github.com/CaioDoVale)
