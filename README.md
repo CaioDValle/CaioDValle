@@ -1,89 +1,89 @@
-<!-- Banner com animação de texto -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+do+Vale;I'm+18+years+old;I+am+from+Paulista,+PE;Technical+in+Systems+Development;Currently+studying+Analysis+and+Systems+Development+(ADS);Be+Welcome!+:%29)](https://git.io/typing-svg)
-
----
-
-### 👨‍💻 About Me
-- 💻 Passionate about technology and programming  
-- 📚 Technical degree in **Systems Development**  
-- 🎓 Currently studying **Analysis and Systems Development (ADS)**  
-- 🌎 From **Paulista, Pernambuco - Brazil**  
-- 🚀 Always looking to improve and learn new things  
-
----
-
-### ⚙️ GitHub Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://github.com/CaioDoVale">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioDoVale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDoVale&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caio+do+Vale;I'm+18+years+old;I+am+from+Paulista,+PE;Technical+in+Systems+Development;Currently+studying+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 </div>
-
----
-
-### 🧠 GitHub Streak & Metrics
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=CaioDoVale&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=en"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioDValle&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Caio do Vale github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDValle&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
----
-
-### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CaioDoVale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img width="90%" src="https://streak-stats.demolab.com/?user=CaioDValle&theme=transparent&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&background=0d1117" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-### 📊 Profile Summary Card
+### 🧠 Main Skills
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioDoVale&theme=tokyonight"/>
+  
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00bfbf)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00bfbf)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00bfbf)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00bfbf)
+
 </div>
 
 ---
 
-### 🧩 Languages & Tools
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
-
----
-
-### 📫 Contact Me
+### ⚙️ Tools
 
 <div align="center">
-  <a href="mailto:caiodovale@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/caiodovale" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://github.com/CaioDoVale" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00bfbf)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00bfbf)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00bfbf)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00bfbf)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=00bfbf)
+
 </div>
 
 ---
 
-### 🧭 Visitor Counter
+### 📚 Other Knowledge
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaioDoVale&color=00bfbf&style=flat-square&label=Profile+Views"/>
+
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00bfbf)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00bfbf)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=00bfbf)
+
 </div>
 
 ---
 
-⭐️ From [CaioDoVale](https://github.com/CaioDoVale)
+### 🚀 Currently Studying
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00bfbf)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00bfbf)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00bfbf)
+
+</div>
+
+---
+
+### 📫 Contact
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00bfbf)](https://www.instagram.com/caioszvalle/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00bfbf)](https://github.com/CaioDValle)
+
+</div>
+
+---
+
+<div align="center">
+  <br>
+  <p><b>👀 Profile Views</b></p>  
+  <img src="https://profile-counter.glitch.me/CaioDValle/count.svg" alt="Visitor Count" />
+  <br><br>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
